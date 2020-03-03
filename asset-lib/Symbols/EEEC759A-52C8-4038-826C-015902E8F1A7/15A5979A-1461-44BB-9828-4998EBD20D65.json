@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.09803921568627451,
+            "green": 0.09803921568627451,
+            "red": 0.09803921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -71,7 +71,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E7985A12-01FF-40F1-81FD-FFA267FF3CAB",
+  "sharedStyleID": "668E19D6-F56B-4ED5-A759-D9C7BCEDC9BC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.09803921568627451,
+          "green": 0.09803921568627451,
+          "red": 0.09803921568627451
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
