@@ -173,10 +173,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.03450463012824763,
+          "green": 0.03450463012824763,
+          "red": 0.9819972826086957
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
