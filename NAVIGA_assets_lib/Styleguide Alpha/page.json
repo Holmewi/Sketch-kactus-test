@@ -1,0 +1,212 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "68D09880-192F-4CC4-A46E-F7EFD8B4ED11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -496,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "70D9E8F2-60CF-437D-B16A-72EFA3578807"
+    },
+    {
+      "class": "artboard",
+      "id": "A5413A86-7D9A-4977-9BA8-61BAEEF0DF4A"
+    },
+    {
+      "class": "artboard",
+      "id": "4B23EBED-B61C-45D8-BB8B-BE8BB6773AC2"
+    },
+    {
+      "class": "artboard",
+      "id": "21DA9141-6A6F-425E-A34A-01DE98003120"
+    },
+    {
+      "class": "artboard",
+      "id": "A77079CB-EDA1-4EA4-BC2D-0CB17AD84F8B"
+    },
+    {
+      "class": "artboard",
+      "id": "DE5A6EC8-7717-44CC-8809-5B49A4432777"
+    },
+    {
+      "class": "artboard",
+      "id": "D32968C4-D06D-4F6B-8A73-E519BE1E8459"
+    },
+    {
+      "class": "artboard",
+      "id": "BD78F999-CF50-40B5-BCFA-1DA14B93D2FE"
+    },
+    {
+      "class": "artboard",
+      "id": "3922E98A-CCE3-4EF5-B6DA-903CB3CB85C2"
+    },
+    {
+      "class": "artboard",
+      "id": "F513CF38-E74A-4788-9A5F-8800CFBAD83D"
+    },
+    {
+      "class": "artboard",
+      "id": "EF1E8250-8C1F-42A9-9F08-0ED1C8CB5E51"
+    },
+    {
+      "class": "artboard",
+      "id": "7A892524-F6BB-47C6-A97D-67F978479A5B"
+    },
+    {
+      "class": "artboard",
+      "id": "3D7F5D93-FAE4-4FDE-8CB9-1C10DF30CC81"
+    },
+    {
+      "class": "artboard",
+      "id": "1CA2B143-358A-4BD0-AE91-40DCEF5F3708"
+    },
+    {
+      "class": "bitmap",
+      "id": "7B802A69-B05E-42E7-8FC8-740409DDE06C"
+    },
+    {
+      "class": "text",
+      "id": "4E0F48E1-8AAC-423D-B659-CAC83D3A12DB"
+    },
+    {
+      "class": "text",
+      "id": "CF880CD9-5109-43DC-95E5-5CA57DA54DAC"
+    },
+    {
+      "class": "text",
+      "id": "F41767FA-BE84-490D-9632-EA406F4CB3A6"
+    },
+    {
+      "class": "text",
+      "id": "EA9DCC6D-B14E-4EF0-B33F-4829A122A31A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FB06FD2A-35DB-4916-B199-361EB049273F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D2DEE55B-3A34-46C7-B9FD-C6A8F1B285BE"
+    },
+    {
+      "class": "text",
+      "id": "F7DBD0EB-D770-4AD3-8FA2-768749CFF24E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Styleguide Alpha",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "E163B886-C72C-4BD6-BA7C-53083B05587F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.animaPageID": "D34B18CB-4069-4BA3-8594-BF0241F5EDB2",
+      "com.animaapp.uses.anima": 1,
+      "draft:3eecb73b25647f6f49fa9ea3c4b96780": "https://projects.animaapp.com/#/p/dxaTE9Q/eLRP7PX/styleguideinputsbuttons/prototype",
+      "pid": "5ced19cd10b37f66ca7080f5"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -1212,
+    "guides": [
+    ]
+  }
+}

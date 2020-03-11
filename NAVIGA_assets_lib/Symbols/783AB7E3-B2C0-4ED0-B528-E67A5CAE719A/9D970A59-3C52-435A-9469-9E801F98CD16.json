@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D970A59-3C52-435A-9469-9E801F98CD16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 291,
+    "x": 0,
+    "y": 84
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Select list checkbox Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4CBEC519-79FD-4A0E-A83A-B122B97B48B9_stringValue",
+      "value": "AL Gadsden Times"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A9A53A4-F43E-4567-8842-5D56AA8C84CB_layerStyle",
+      "value": "05773C51-E087-41DD-AFB9-0E986A9B15F7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D6267B33-B1DA-4F54-8644-62D576A65013_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4CBEC519-79FD-4A0E-A83A-B122B97B48B9_textStyle",
+      "value": "41EFCBBA-E1DB-47B7-AB15-A8FBB548F21A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "33291517-A649-478B-9DDA-255EE3D93A16_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4151663D-742F-42B5-B086-F7124108E916",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9BFEEE3C-7895-4404-9D40-6E92B046F55A",
+  "verticalSpacing": 0
+}

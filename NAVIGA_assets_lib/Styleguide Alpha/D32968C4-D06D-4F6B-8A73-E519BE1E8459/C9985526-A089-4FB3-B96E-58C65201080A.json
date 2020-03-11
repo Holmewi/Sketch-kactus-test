@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9985526-A089-4FB3-B96E-58C65201080A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 149,
+    "width": 1140,
+    "x": 143,
+    "y": 605
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Alerts/Takeover/warning-button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCFB65E4-D203-470A-AC98-A0644930F3B6/7A4DA1CD-1DD9-41A8-B37E-1292EF0488A3/544B1E76-43FC-470B-AC9E-8C01936B8147_stringValue",
+      "value": "Import"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8CFF2A7D-52E5-45DD-8827-8BFCA8B0BE46_symbolID",
+      "value": "BA107A25-EE53-4699-9637-104AFF49C059"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8CFF2A7D-52E5-45DD-8827-8BFCA8B0BE46/702029E8-179B-4DD5-84E4-D6928C5A073F_symbolID",
+      "value": "895AEE3C-B908-4382-97DB-7C458D8C8BB2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8CFF2A7D-52E5-45DD-8827-8BFCA8B0BE46/702029E8-179B-4DD5-84E4-D6928C5A073F/5EC22019-28C9-4144-8533-5319354390A0_layerStyle",
+      "value": "76222910-43B1-4027-BE72-FB54F2BCF8F8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "496A4EFA-C553-4715-8802-672BE3D963D4_stringValue",
+      "value": "This action will import the snapshot to your dashboard. By clicking ocn ”Import” all the snapshot data will be replaced with the current state of your dashboard"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6FE6B584-634B-41F2-9A52-2946658C4F86_stringValue",
+      "value": "Import snapshot"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "AFF95EBC-8F9E-4634-812F-FAA035182E8D",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE7B0453-BDE6-4413-8855-4F34AD036DB0",
+  "verticalSpacing": 0
+}

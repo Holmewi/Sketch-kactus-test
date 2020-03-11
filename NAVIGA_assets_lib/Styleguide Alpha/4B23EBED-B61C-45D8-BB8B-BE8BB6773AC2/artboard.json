@@ -1,0 +1,275 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B23EBED-B61C-45D8-BB8B-BE8BB6773AC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1867,
+    "width": 1680,
+    "x": 158375,
+    "y": 28271
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 15,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AF63887E-45E9-4990-A16F-6559FF45F577"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29A8DA87-EAD4-4E03-9F94-45C7771D16F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49C1ABC3-250C-4EB8-BD5C-112F6FCBE171"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BEE77B7-CD51-4AE3-8DDF-C6395CA5F7BE"
+    },
+    {
+      "class": "group",
+      "id": "8B5835AB-5883-4542-A79D-F1BE82D568FA"
+    },
+    {
+      "class": "group",
+      "id": "C7400C31-438E-4306-92FE-F2883D21A11C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF04B45A-2C9A-426D-A8C5-2A52DCA7733F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34F882B5-2C21-4367-849E-E0B4A2AD259F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C6CD2F60-F8F9-42E3-A25A-B66FFB6EB7C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C90A19A1-DC16-4877-8485-C1170C8A3287"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51591032-EE94-4D4A-9A8A-B10C7465FA65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "445F3280-B49C-40B1-91B7-5B6FED3471B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DED9703-0081-4971-8255-DC236B0D7DE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "486EF9D7-B5F7-4F0B-98A7-21EC8B695FE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFF2D30A-07AC-4207-8BC8-EE7CA2822D91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2BEFA598-5730-4403-8E92-AD731E05B4AA"
+    },
+    {
+      "class": "text",
+      "id": "7A29CEB3-8238-4717-B838-AD720CB95A5C"
+    },
+    {
+      "class": "text",
+      "id": "470C22EA-C724-41CE-A569-3BD9F54AF8FE"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 67.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 710,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Selects",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A021E6B5-8E2D-4E9E-B4D3-A59FCA9A7439",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "1ZjxvzWRPQnDw2ncFPmj2J4qQZry5UkZe6NAHNi42fc="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
