@@ -124,8 +124,8 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4208916083916083,
-          "green": 0,
+          "blue": 0,
+          "green": 0.5450980392156862,
           "red": 1
         },
         "contextSettings": {
